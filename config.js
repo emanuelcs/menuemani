@@ -1,7 +1,7 @@
 exports.domain = "https://menu.smardep.com/api/v2";
 exports.APP_SECRET="app_secret"; //Your app secret - same as in the .env file in your web project 
-exports.APP_NAME="Food Tiger";
-exports.LOGO="https://i.imgur.com/cEysw98.png";
+exports.APP_NAME="WP Menu";
+exports.LOGO="https://menu.smardep.com/social/img/favicon.png";
 
 exports.SINGLE_MODE=false;
 exports.SINGLE_MODE_ID=1;
