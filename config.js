@@ -1,5 +1,5 @@
 exports.domain = "https://menu.smardep.com/api/v2";
-exports.APP_SECRET="app_secret"; //Your app secret - same as in the .env file in your web project 
+exports.APP_SECRET="base64:cleqsZQ0FQGaaEpuNR228wvo02JTLgsj2Qko9Y9N4LI="; //Your app secret - same as in the .env file in your web project 
 exports.APP_NAME="WP Menu";
 exports.LOGO="https://menu.smardep.com/social/img/favicon.png";
 
